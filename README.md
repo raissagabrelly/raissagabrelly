@@ -1,16 +1,18 @@
-## Hi there 👋
+### Seja bem vindo(a) ao meu perfil 🌸
 
-<!--
-**raissagabrelly/raissagabrelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Raissa Gabrielly
 
-Here are some ideas to get you started:
+-Estou no ultimo ano do endino médio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou estudando na Alura 
+
+-Estou me desenvolvendo na linguagem JavaScript
+
+-Utilizarei esse espaço para organização e compartilhamento dos meus projetos desenvolvidos
+
+### Meu e-mail para contato é 📧
+
+00001091394003sp@al.educacao.sp.gov.br
+
+![](https://media.tenor.com/ys9tdL5OjN4AAAAi/rosa.gif) 
+
